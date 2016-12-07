@@ -1,0 +1,5 @@
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\QueueDomain\bin\Debug\QueueDomain.dll
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\QueueDomain\bin\Debug\QueueDomain.pdb
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\QueueDomain\obj\Debug\QueueDomain.csprojResolveAssemblyReference.cache
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\QueueDomain\obj\Debug\QueueDomain.dll
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\QueueDomain\obj\Debug\QueueDomain.pdb

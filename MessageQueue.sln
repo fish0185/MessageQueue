@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageQueue", "MessageQueue\MessageQueue.csproj", "{DCB223A1-9420-4CBB-9278-ED583FA8D830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageQueue.Handler", "MessageQueue.Handler\MessageQueue.Handler.csproj", "{AB6B197E-176A-45D7-9470-DAE64FF3D1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueDomain", "QueueDomain\QueueDomain.csproj", "{8C2B94CB-A921-4867-9E39-EA6422A2A8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB223A1-9420-4CBB-9278-ED583FA8D830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB223A1-9420-4CBB-9278-ED583FA8D830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB223A1-9420-4CBB-9278-ED583FA8D830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB223A1-9420-4CBB-9278-ED583FA8D830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6B197E-176A-45D7-9470-DAE64FF3D1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6B197E-176A-45D7-9470-DAE64FF3D1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6B197E-176A-45D7-9470-DAE64FF3D1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6B197E-176A-45D7-9470-DAE64FF3D1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2B94CB-A921-4867-9E39-EA6422A2A8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2B94CB-A921-4867-9E39-EA6422A2A8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2B94CB-A921-4867-9E39-EA6422A2A8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2B94CB-A921-4867-9E39-EA6422A2A8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

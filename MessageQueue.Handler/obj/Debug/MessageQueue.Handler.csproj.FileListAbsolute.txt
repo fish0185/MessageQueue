@@ -1,0 +1,9 @@
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\bin\Debug\MessageQueue.Handler.exe.config
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\bin\Debug\MessageQueue.Handler.exe
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\bin\Debug\MessageQueue.Handler.pdb
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\bin\Debug\Newtonsoft.Json.dll
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\bin\Debug\QueueDomain.dll
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\bin\Debug\QueueDomain.pdb
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\bin\Debug\Newtonsoft.Json.xml
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\obj\Debug\MessageQueue.Handler.exe
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue.Handler\obj\Debug\MessageQueue.Handler.pdb

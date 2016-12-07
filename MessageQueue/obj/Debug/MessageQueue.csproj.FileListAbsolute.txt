@@ -1,0 +1,10 @@
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe.config
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\MessageQueue.pdb
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\QueueDomain.dll
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\QueueDomain.pdb
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\obj\Debug\MessageQueue.csprojResolveAssemblyReference.cache
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\obj\Debug\MessageQueue.exe
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\obj\Debug\MessageQueue.pdb
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\Newtonsoft.Json.dll
+c:\users\gary.yu\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\Newtonsoft.Json.xml
